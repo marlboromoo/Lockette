@@ -1,0 +1,45 @@
+language: 繁體中文
+author: MarlboroMoo
+editors: ''
+version: 0
+alternate-private-tag: Private
+alternate-moreusers-tag: More Users
+alternate-everyone-tag: Everyone
+alternate-operators-tag: Operators
+alternate-timer-tag: Timer
+alternate-fee-tag: Fee
+msg-user-conflict-door: 衝突的門已移除!
+msg-user-illegal: 無效的箱子已移除!
+msg-user-resize-owned: 你無法改變 *** 的箱子大小.
+msg-help-chest: 在箱子上放置一個於第一行輸入[Private]的告示牌來鎖定.
+msg-owner-release: 你已經釋放了一個容器.
+msg-admin-release: (管理員) @@@ 撬開了 *** 的容器!
+msg-user-release-owned: 你無法釋放 *** 的容器.
+msg-owner-remove: 你已從該容器移除一個使用者!
+msg-user-remove-owned: 你無法從 *** 的容器移除使用者.
+msg-user-break-owned: 你無法破壞 *** 的容器.
+msg-user-denied-door: 你無權開啟這扇門.
+msg-user-touch-fee: '你將付 ### 給 *** 來開啟.'
+msg-user-touch-owned: 這個容器已被 *** 所擁有.
+msg-help-select: 已選擇告示牌, 輸入 /lockette <行數> <文字> 來編輯.
+msg-admin-bypass: 通過一扇 *** 的門, 記得關起來啊.
+msg-admin-snoop: (管理員) @@@ 偷看了 *** 容器裡的東西!
+msg-user-denied: 你無權打開這個容器.
+msg-error-zone: 這個區域正被 *** 所保護.
+msg-error-permission: 你無權鎖住這個容器.
+msg-error-claim: 附近沒有可被上鎖的容器!
+msg-error-claim-conflict: 與一扇已被保護的門衝突.
+msg-admin-claim-error: 玩家 *** 不在線上, 請確定你輸入的是正確名稱.
+msg-admin-claim: 你已為 *** 上鎖一個容器.
+msg-owner-claim: 你已將這個容器上鎖!
+msg-error-adduser-owned: 你無法在屬於 *** 的容器增加使用者.
+msg-error-adduser: 附近沒有上鎖的容器可以增加使用者!
+msg-owner-adduser: 你已新增一個使用者到該容器!
+msg-help-command1: '&C/lockette <行數> <文字> - 修改於上鎖容器的告示牌. 右鍵點擊來編輯.'
+msg-help-command2: '&C/lockette fix - 修正一個方位錯誤的自動門. 準心對著門來編輯.'
+msg-help-command3: '&C/lockette reload - 重新載入設定檔. 僅供 OP 使用'
+msg-help-command4: '&C/lockette version - 顯示版本資訊.'
+msg-admin-reload: 重新載入設定檔.
+msg-error-fix: 沒有找到已擁有的門.
+msg-error-edit: 首先右鍵點擊一個告示牌來選取它.
+msg-owner-edit: 告示牌成功編輯.
